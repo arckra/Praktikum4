@@ -11,7 +11,7 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 ![Praktikum4 flowchart](https://github.com/user-attachments/assets/0b0dc552-d150-4569-95aa-67b07b4d7700)
 
 **Jawaban :**
-Flowchart ini menggambarkan algoritma untuk memproses data mahasiswa dan menghitung nilai akhir mereka. Berikut penjelasan detailnya:
+> Flowchart ini menggambarkan algoritma untuk memproses data mahasiswa dan menghitung nilai akhir mereka. Berikut penjelasan detailnya:
 
 1. **Mulai:** Program dimulai.
 2. **Inisialisasi Data = []:** Sebuah list kosong dibuat untuk menyimpan data mahasiswa.
